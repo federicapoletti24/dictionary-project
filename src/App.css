@@ -1,3 +1,46 @@
-.App-header {
-  margin-top: 30px;
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2017/01/20/14/40/background-1995005_1280.jpg");
+}
+.App {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 30px;
+  border: 1px solid #dadded;
+  border-radius: 10px;
+  background: white;
+  border-radius: 16px;
+}
+.App h1 {
+  text-align: center;
+}
+.App h3 {
+  text-align: center;
+  font-size: 18px;
+}
+
+.App footer {
+  font-size: 10px;
+  padding-top: 10px;
+  margin-bottom: 3px;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  margin: 10px;
+}
+
+section {
+  border-color: 1px solid white;
+  border-radius: 10px;
+  background: rgb(247, 248, 242);
+  border-radius: 16px;
+  margin: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+.Phonetic {
+  text-align: center;
 }
